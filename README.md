@@ -9,7 +9,7 @@ Finishing up my degree as an Agile Java Developer in June 2026. During my intern
 ```python
 languages  = ["Java", "Python", "SQL"]
 frameworks = ["Spring Boot", "FastAPI"]
-databases  = ["PostgreSQL", "MongoDB"]
+databases  = ["MySQL", "PostgreSQL", "MongoDB"]
 tools      = ["Docker", "Git"]
 ```
  
