@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
  
-Finishing up my degree as an Agile Java Developer in June 2025. During my internship I've been working with Python backend at a startup, building real features in production. My favorite part of development is taking a new feature from idea to working code.
+Finishing up my degree as an Agile Java Developer in June 2026. During my internship I've been working with Python backend at a startup, building real features in production. My favorite part of development is taking a new feature from idea to working code.
  
 ---
  
