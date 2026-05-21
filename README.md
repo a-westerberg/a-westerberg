@@ -30,7 +30,28 @@ All in Python, working independently on GitHub issues in a team of three.
  
 ## Projects
  
-> Thesis project is currently in development and will be published here when done.
+### The Game Cellar
+
+<a href="https://github.com/The-Game-Cellar">
+  <img src="https://raw.githubusercontent.com/The-Game-Cellar/.github/main/docs/hero.png" alt="The Game Cellar"
+width="100%" />
+</a>
+
+A microservice platform for managing a personal game backlog, with content-based recommendations. Track game status,
+rate titles 1–10, and get personalized suggestions based on declared preferences and rating history.
+
+**Stack:** Java 17, Spring Boot 4, PostgreSQL 17, Keycloak 26, React 19, TypeScript, Tailwind, TanStack Query, IGDB
+API, Docker.
+
+**Architecture:** API Gateway fronting three independent services (Game, Library, Recommendation), each with its own
+database. User identity from Keycloak JWT — never request bodies.
+
+**Repos:** [organization](https://github.com/The-Game-Cellar) ·
+[frontend](https://github.com/The-Game-Cellar/frontend) ·
+[api-gateway](https://github.com/The-Game-Cellar/api-gateway) ·
+[game-service](https://github.com/The-Game-Cellar/game-service) ·
+[library-service](https://github.com/The-Game-Cellar/library-service) ·
+[recommendation-service](https://github.com/The-Game-Cellar/recommendation-service)
  
 ---
  
