@@ -44,7 +44,7 @@ rate titles 1–10, and get personalized suggestions based on declared preferenc
 API, Docker.
 
 **Architecture:** API Gateway fronting three independent services (Game, Library, Recommendation), each with its own
-database. User identity from Keycloak JWT — never request bodies.
+database. User identity from Keycloak JWT, never request bodies.
 
 **Repos:** [organization](https://github.com/The-Game-Cellar) ·
 [frontend](https://github.com/The-Game-Cellar/frontend) ·
